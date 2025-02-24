@@ -41,7 +41,7 @@
     "tslint": "^5.20.1",
     "tslint-config-prettier": "^1.17.0",
     "tslint-immutable": "^6.0.1",
-    "typedoc": "^0.20.36",
+    "typedoc": "^0.27.8",
     "typescript": "^3.9.9",
     "webpack": "^5.38.1",
     "webpack-cli": "^6.0.1"
